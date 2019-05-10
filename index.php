@@ -135,7 +135,7 @@
 					</ul>
 				</div>
 				<div class="col-md-7">
-					<p class="desc-footer">Le CRM gratuit de HubSpot est la base de données sur laquelle repose chaque produit HubSpot. Au-delà de la simple gestion des contacts, il fournit des informations détaillées sur chaque contact afin que vous puissiez développer des relations personnalisées à grande échelle. Le CRM constitue le point de départ, et il est entièrement gratuit.</p>
+					<p class="desc-footer">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 					
 				</div>
 				<div class="col-md-3">
